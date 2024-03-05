@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/view-layout-on-hover-using-css-position-1bL30b3epJ)
+- Live Site URL: (https://aallam0.github.io/nft-Preview)
 
 ### Useful resources
 
