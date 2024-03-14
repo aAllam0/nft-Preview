@@ -1,4 +1,4 @@
-# Frontend Mentor - Page name
+# Frontend Mentor - nft Preview Page
 
 ![](images/nft-preview.png)
 
